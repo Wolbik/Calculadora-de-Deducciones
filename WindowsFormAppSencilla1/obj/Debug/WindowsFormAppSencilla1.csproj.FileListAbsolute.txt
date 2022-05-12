@@ -1,0 +1,11 @@
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\bin\Debug\WindowsFormAppSencilla1.exe.config
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\bin\Debug\WindowsFormAppSencilla1.exe
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\bin\Debug\WindowsFormAppSencilla1.pdb
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\obj\Debug\WindowsFormAppSencilla1.csproj.AssemblyReference.cache
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\obj\Debug\WindowsFormAppSencilla1.csproj.SuggestedBindingRedirects.cache
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\obj\Debug\WindowsFormAppSencilla1.Form1.resources
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\obj\Debug\WindowsFormAppSencilla1.Properties.Resources.resources
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\obj\Debug\WindowsFormAppSencilla1.csproj.GenerateResource.cache
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\obj\Debug\WindowsFormAppSencilla1.csproj.CoreCompileInputs.cache
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\obj\Debug\WindowsFormAppSencilla1.exe
+C:\Users\000\source\repos\DesarolloSoftwareII\WindowsFormAppSencilla1\obj\Debug\WindowsFormAppSencilla1.pdb
